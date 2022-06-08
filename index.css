@@ -1,10 +1,22 @@
+.screen:hover .logo {
+  transform: translateX(100%);
+}
+
 body {
-background-color: blue;
+background-color: white;
 }
 
+h1 {
+  text-align: center;
+}
 
-.Screen {
+.screen {
 background-color: black;
-height: 400px;
-width: 400px;
+height: 630px;
+width: 1420px;
 }
+
+.logo {
+background-color: red;
+height: 170px;
+width: 220px;
